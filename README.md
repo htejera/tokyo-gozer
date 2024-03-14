@@ -1,11 +1,17 @@
 # “Tokyo” Template fo Gozer
 This is a simple HTML template for [Gozer](https://github.com/dannyvankooten/gozer). It's clean and straightforward, with no frills. Just your content.
 
-It does not have support for pagination or tags.
 
-[Chota](https://github.com/jenil/chota) v0.9.2 is used.
+* It does not have support for pagination or tags.
+* Dark Mode support.
+* [Chota](https://github.com/jenil/chota) v0.9.2 is used.
 
 Live preview: [https://tokyo-gozer.surge.sh](https://tokyo-gozer.surge.sh)
+
+![Light](https://raw.githubusercontent.com/htejera/tokyo-gozer/main/screenshot1.webp)
+![Post](https://raw.githubusercontent.com/htejera/tokyo-gozer/main/screenshot2.webp)
+![Dark](https://raw.githubusercontent.com/htejera/tokyo-gozer/main/screenshot3.webp)
+
 
 # Installing and building
 
