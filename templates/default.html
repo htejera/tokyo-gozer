@@ -1,0 +1,17 @@
+{{ template "_header.html" .}}
+
+    <main role="main">
+      <fieldset id="box">
+        <legend class="text-lowercase">/ <em>blog</em> /</legend>
+         <br>
+          <div class="row">
+            {{ range .Posts }}
+            <div class="col is-center">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </div>
+            {{ end }}
+          </div>
+      </fieldset>
+    </main>  
+
+{{ template "_footer.html" .}}

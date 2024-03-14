@@ -1,0 +1,13 @@
+{{ template "_header.html" .}}
+
+<main role="main">
+    <fieldset id="box">
+        <legend class="text-lowercase">/ <em>{{ .Title }}</em> /</legend>
+        <div class="clearfix"></div><br>
+        <div class="row">            
+            {{ $.Content }}
+        </div>
+    </fieldset>
+</main>
+
+{{ template "_footer.html" .}}
