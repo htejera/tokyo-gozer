@@ -12,6 +12,8 @@ Live preview: [https://tokyo-gozer.surge.sh](https://tokyo-gozer.surge.sh)
 ![Post](https://raw.githubusercontent.com/htejera/tokyo-gozer/main/screenshot2.webp)
 ![Dark](https://raw.githubusercontent.com/htejera/tokyo-gozer/main/screenshot3.webp)
 
+> Find more themes for Gozer at [Jamstackthemes](https://jamstackthemes.dev/#ssg=gozer)
+
 
 # Installing and building
 
