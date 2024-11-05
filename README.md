@@ -28,10 +28,8 @@ Before installing Gozer, make sure you have Go installed. You need Go version 1.
 To install Gozer, open a terminal and execute the following command:
 
 ```
-go install github.com/dannyvankooten/gozer@latest
+go install git.sr.ht/~dvko/gozer@latest
 ```
-
-This command will download and install the latest version of Gozer; or you can also download a precompiled binary from the [latest release](https://github.com/dannyvankooten/gozer/releases)
 
 ## Project Structure
 
